@@ -1,0 +1,12 @@
+{
+  "name": "my-github-actor-demo",
+  "version": "0.0.1",
+  "description": "A demo Apify Actor built from GitHub",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "apify": "^3.0.0"
+  }
+}
