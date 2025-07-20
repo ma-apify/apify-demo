@@ -1,0 +1,6 @@
+{
+  "name": "my-github-actor-demo",
+  "template": "js",
+  "dockerfile": "Dockerfile",
+  "buildTag": "latest"
+}
